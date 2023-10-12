@@ -1,0 +1,36 @@
+[/]
+app-title='${appName}: ${sessionName}'
+background-image-mode='scale'
+prompt-on-close=true
+prompt-on-new-session=false
+session-name='${title}'
+sidebar-on-right=false
+tab-position='top'
+terminal-title-show-when-single=true
+terminal-title-style='none'
+theme-variant='system'
+use-overlay-scrollbar=true
+use-tabs=false
+window-save-state=true
+window-state=132
+window-style='normal'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#272728282222'
+background-transparency-percent=5
+badge-color='#AC7EA8'
+badge-color-set=false
+badge-position='southwest'
+badge-text=''
+bold-color-set=false
+bold-is-bright=true
+cell-height-scale=1.3000000000000003
+cursor-blink-mode='system'
+cursor-colors-set=false
+cursor-shape='block'
+dim-transparency-percent=0
+foreground-color='#F8F8F2'
+highlight-colors-set=false
+palette=['#5E5E5C5C6464', '#AA0000', '#00AA00', '#AA5400', '#0000AA', '#AA00AA', '#00AAAA', '#AAAAAA', '#5E5E5C5C6464', '#FF5454', '#54FF54', '#FFFF54', '#5454FF', '#FF54FF', '#54FFFF', '#FFFFFF']
+use-theme-colors=false
+visible-name='Default'
